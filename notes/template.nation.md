@@ -1,11 +1,11 @@
 ---
 id: 7jy63hltsxpeihr4cdz0tgt
-title: Nationtemplate
+title: nation
 desc: ''
-updated: 1747837529772
+updated: 1747838374927
 created: 1747837490975
 ---
-# Nation Name
+# 🌐 Nation Name
 
 ## Overview
 
