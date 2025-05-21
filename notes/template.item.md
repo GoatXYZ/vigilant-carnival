@@ -2,7 +2,7 @@
 id: 1hxvo5x2n4ryaqdh4p8u97h
 title: Item
 desc: ''
-updated: 1747839696759
+updated: 1747855987814
 created: 1747839639362
 ---
 # 🧭 Item Template
@@ -93,7 +93,3 @@ created: 1747839639362
 ## **DM Notes**
 
 *Balance concerns, secret functions, evolutions over time, interactions with factions or divine entities, etc.*
-
----
-
-Would you like me to create an example item next — perhaps a signature artifact of High Priestess Lyranna?

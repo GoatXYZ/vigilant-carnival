@@ -2,7 +2,7 @@
 id: bgd85g7lrbx8q8dmzk1h4mi
 title: Nox
 desc: ''
-updated: 1747853873661
+updated: 1747855868242
 created: 1747842538994
 ---
 
@@ -117,8 +117,8 @@ The city is an architectural marvel of moonstone towers, star-etched bridges, an
 ## **Notable NPCs**
 
 * **[[High Priestess Lyranna|npcs.LyrannaVirelleth]]** Divine mouthpiece of Velaria, supreme cleric, and central advisor.
-* **Lord Zorath:** Politically cunning noble of House Virelleth, a power broker in court.
-* **Archmage Kaelas:** Headmaster of Moonshadow Academy, rumored to be centuries old.
+* **[[Lord Zorath|npcs.ZorathVirelleth]]:** Politically cunning noble of House Virelleth, a power broker in court.
+* **[[Archmage Kaelas|npcs.ArchmageKaelas]]:** Headmaster of Moonshadow Academy, rumored to be centuries old.
 
 ---
 
