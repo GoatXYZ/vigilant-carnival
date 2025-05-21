@@ -1,0 +1,119 @@
+# Nation Name
+
+## Overview
+
+Brief description or summary of the nation, including its culture, governance style, and major themes.
+
+## Geography
+
+* **Location:** (Continent, neighboring nations, notable geographical borders)
+* **Climate:** (Overall climate, seasons, unique weather phenomena)
+* **Natural Features:** (Mountain ranges, rivers, lakes, forests, deserts, etc.)
+
+## History
+
+* **Founding:** (Who founded it, when, and why)
+* **Historical Events:** (Wars, treaties, disasters, expansions, significant cultural shifts)
+
+## Government
+
+* **Structure:** (Type of government, ruling bodies, key figures)
+* **Succession Rules:** (How leadership changes, inheritance, elections, etc.)
+* **Law and Order:** (Legal system, enforcement, notable or unique laws)
+* **Diplomatic Relations:** (Allies, enemies, neutral nations, and international reputation)
+
+## Military
+
+* **Forces:** (Composition of army, navy, air force, magical units, notable divisions)
+* **Fortifications:** (Significant fortresses, defensive structures)
+* **Military History:** (Major battles, military leaders, victories, defeats)
+
+## Economy
+
+* **Primary Industries:** (Agriculture, mining, crafting, trade, magic-based industries)
+* **Trade Routes:** (Important trading partners, import/export goods)
+* **Currency:** (Local currency, exchange rates, notable banks or financial institutions)
+
+## Demographics
+
+* **Population:** (Size, diversity, distribution)
+* **Languages:** (Official languages, regional dialects)
+* **Culture:** (Traditions, festivals, art, music, cuisine, typical attire)
+* **Religion:** (Major religions, places of worship, influential religious figures)
+
+## Magic
+
+* **Role of Magic:** (Commonality, social acceptance, regulated or free use)
+* **Magical Institutions:** (Academies, guilds, prominent magic users)
+* **Artifacts & Relics:** (Notable magical items associated with the nation)
+
+## Notable Cities
+
+### City Name
+
+* **Overview:** Brief description or summary of the city including its atmosphere, significance, and main characteristics.
+* **Districts:**
+
+  * **District Name:** Brief description (notable buildings, businesses, atmosphere).
+* **Important Landmarks:** (Monuments, statues, famous buildings)
+* **Shops & Taverns:** (List and brief descriptions)
+* **Important NPCs:**
+
+  * **Name:** Brief description, role, and relevant information.
+* **Plot Hooks:** (Adventures or events unique to this city)
+
+(Add additional cities as needed)
+
+## Notable Landmarks Outside Cities
+
+* **Name:** (Description and significance)
+
+## Notable Figures (National)
+
+* **Name:** (Role, influence, importance)
+
+## Factions and Organizations
+
+* **Name:** (Purpose, alignment, influence, leaders, notable members)
+
+## Plot Hooks
+
+* List several hooks or events that can lead players to adventures within the nation.
+
+## Secrets and Rumors
+
+* **Secrets:** Hidden truths known by few or none.
+* **Rumors:** Common tales or hearsay, true or false.
+
+## Religion Template
+
+### Religion Name
+
+* **Overview:** (General description, origin, significance)
+* **Deities:**
+
+* **Deity Name:** (Domains, alignment, symbols, worship practices)
+* **Beliefs and Teachings:** (Core beliefs, commandments, morality)
+* **Sacred Texts:** (Name, content overview, importance)
+* **Clergy:** (Structure, titles, hierarchy, roles)
+* **Places of Worship:** (Temples, shrines, notable religious sites)
+* **Festivals and Rituals:** (Major religious ceremonies, celebrations)
+* **Artifacts & Relics:** (Significant items related to the religion)
+* **Influence:** (Political, social, cultural impact)
+
+## Magic Template
+
+### Magic System Name
+
+* **Overview:** (General description, source of magic, type of energy or divine power)
+* **Types of Magic:** (Arcane, divine, elemental, etc.)
+* **Practitioners:** (Wizards, clerics, druids, warlocks, etc.)
+* **Common Spells & Abilities:** (Signature spells, common magical abilities)
+* **Magic Institutions:** (Academies, guilds, temples, notable individuals)
+* **Rules and Limitations:** (Restrictions, taboos, magical laws)
+* **Artifacts & Magical Items:** (Legendary items, significance, powers)
+* **Cultural Impact:** (Social perception, influence on daily life, societal roles)
+
+## Additional Notes
+
+Any additional information, ideas, or references relevant to the nation.
