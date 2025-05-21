@@ -2,7 +2,7 @@
 id: st7dgx15bsw36pasqktmck5
 title: VelNorath
 desc: ''
-updated: 1747842256499
+updated: 1747850763173
 created: 1747837515369
 ---
 # Vel'Norath
@@ -68,7 +68,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 * **Shops & Taverns:** Twilight's Cauldron (alchemy), The Moonlit Chalice (tavern).
 * **Important NPCs:**
 
-  * **High Priestess Lyranna:** Leader of religious rituals and adviser.
+  * **[[High Priestess Lyranna:|npcs.LyrannaVirelleth]]** Leader of religious rituals and adviser.
   * **Lord Zorath:** Influential noble of the ruling council.
 * **Plot Hooks:** Political intrigue within the Council, a mysterious disappearance in the Temple District.
 

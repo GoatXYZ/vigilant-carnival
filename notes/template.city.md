@@ -2,7 +2,7 @@
 id: ca9spos5u5s27r7wk7wfoh7
 title: city
 desc: ''
-updated: 1747844539978
+updated: 1747852914429
 created: 1747844509552
 ---
 Based on your detailed example of **Nox’Thalor**, here’s a reusable and expanded **Markdown City Template** tailored for your DND 5e / 5.5 worldbuilding — formatted for depth, flexibility, and future expansion.
@@ -90,6 +90,20 @@ List and describe city districts. Consider roles, culture, safety, and architect
 
 * **\[Name]:** *(Title, role, importance, connections)*
 * **\[Name]:** *(Ally or antagonist? Plot role?)*
+
+---
+
+## **Notable Families**
+
+Brief overview of the influential noble or established families within the city. Include their role in politics, religion, culture, or commerce.
+
+* **\[Family Name]:** *A short description of the family's history, domain of influence (e.g., military, religious, mercantile), and their general reputation within the city.*
+  **Current Head:** *Name and title*
+  **Known For:** *Key traits, alliances, scandals, or legacy*
+
+* **\[Family Name]:** *\[Description as above]*
+  **Current Head:** *Name and title*
+  **Known For:** *\[Details]*
 
 ---
 
