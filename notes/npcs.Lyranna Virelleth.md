@@ -2,11 +2,9 @@
 id: jleb1n6jdiuw5wpulu1eupp
 title: Lyranna Virelleth
 desc: ''
-updated: 1747857858278
+updated: 1747859073599
 created: 1747838665772
 ---
-# Lives in [[nations.velnorath]]
-
 # 📜 Notable NPC Template
 
 ## **Name:**

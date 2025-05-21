@@ -2,7 +2,7 @@
 id: st7dgx15bsw36pasqktmck5
 title: VelNorath
 desc: ''
-updated: 1747858693730
+updated: 1747859124406
 created: 1747837515369
 ---
 # Vel'Norath
@@ -69,7 +69,8 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 * **Important NPCs:**
 
   * **[[High Priestess Lyranna:|npcs.Lyranna Virelleth]]** Leader of religious rituals and adviser.
-  * **Lord Zorath:** Influential noble of the ruling council.
+  * **[[Lord Zorath|npcs.Zorath Virelleth]]:** Influential noble of the ruling council.
+
 * **Plot Hooks:** Political intrigue within the Council, a mysterious disappearance in the Temple District.
 
 ## Notable Landmarks Outside Cities
@@ -80,7 +81,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 ## Notable Figures (National)
 
 * **Lady Selunar:** Current head of the Council of Shadows.
-* **Archmage Kaelas:** Headmaster of Moonshadow Academy.
+  * **[[Archmage Kaelas|npcs.Archmage Kaelas]]** Headmaster of Moonshadow Academy.
 
 ## Factions and Organizations
 
@@ -106,13 +107,13 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 * **Deities:**
 
   * **Velaria:** Moon, Knowledge, Magic, Neutral.
-* **Beliefs and Teachings:** Balance of light and dark, reverence for knowledge and mystical secrets.
-* **Sacred Texts:** "Scrolls of Twilight," ancient prophetic revelations.
-* **Clergy:** Structured hierarchy led by High Priestess, priests and priestesses beneath.
-* **Places of Worship:** Grand Temple of Velaria, numerous shrines throughout the forests.
-* **Festivals and Rituals:** Festival of Moon's Zenith, ritual of prophecy every lunar cycle.
-* **Artifacts & Relics:** Orb of Eternal Twilight, Silver Blade of Velaria.
-* **Influence:** Central to governance, major cultural influence.
+    * **Beliefs and Teachings:** Balance of light and dark, reverence for knowledge and mystical secrets.
+    * **Sacred Texts:** "Scrolls of Twilight," ancient prophetic revelations.
+    * **Clergy:** Structured hierarchy led by High Priestess, priests and priestesses beneath.
+    * **Places of Worship:** Grand Temple of Velaria, numerous shrines throughout the forests.
+    * **Festivals and Rituals:** Festival of Moon's Zenith, ritual of prophecy every lunar cycle.
+    * **Artifacts & Relics:** Orb of Eternal Twilight, Silver Blade of Velaria.
+    * **Influence:** Central to governance, major cultural influence.
 
 ## Magic Template
 
