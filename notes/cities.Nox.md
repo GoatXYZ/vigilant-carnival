@@ -2,7 +2,7 @@
 id: bgd85g7lrbx8q8dmzk1h4mi
 title: Nox
 desc: ''
-updated: 1747855868242
+updated: 1747858693727
 created: 1747842538994
 ---
 
@@ -29,7 +29,7 @@ The city is an architectural marvel of moonstone towers, star-etched bridges, an
 ### **Districts / Wards**
 
 * **Shadow District:**
-  The seat of political authority, housing the **Council of Shadows**, the **Lunar Palace**, and ancestral estates of the five ruling families. Highly fortified and patrolled by the **Ebon Sentinels**.
+  The seat of political authority, housing the **Council of Shadows**, the **Lunar Palace**, and ancestral estates of the five ruling families. Highly fortified and patrolled by the **[[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]]**.
 
 * **Temple District:**
   The spiritual center of Nox, home to the **Grand Temple of Velaria** and various shrines. Pilgrims, priests, and divine seers walk among celestial gardens and twilight-lit spires.
@@ -45,7 +45,7 @@ The city is an architectural marvel of moonstone towers, star-etched bridges, an
   Nox is shielded by **arcane twilight barriers**, which suppress unauthorized teleportation and ward against divine scrying. The outer forest is patrolled by hidden wards and illusion-shrouded towers.
 
 * **Guard Forces:**
-  Maintained by the **Ebon Sentinels**, elite guards blessed by Velaria. Shadow Guards and magical constructs also patrol high-risk areas.
+  Maintained by the **[[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]]**, elite guards blessed by Velaria. Shadow Guards and magical constructs also patrol high-risk areas.
 
 * **Magical Defenses:**
   Enchanted watchtowers emit moonlight wards, and the **Grand Temple** radiates a constant divine protection zone across the heart of the city.
@@ -58,7 +58,7 @@ The city is an architectural marvel of moonstone towers, star-etched bridges, an
   The **Council of Shadows**, composed of the heads of the Five Ruling Families. The **High Priestess** serves as the divine advisor and spiritual authority.
 
 * **Enforcement:**
-  The **Ebon Sentinels** serve both religious and civic functions, empowered to investigate, judge, and enforce Velaria’s divine law.
+  The **[[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]]** serve both religious and civic functions, empowered to investigate, judge, and enforce Velaria’s divine law.
 
 * **Legal Structure:**
   Law in Nox is both **theocratic and political**, with trials often incorporating divine insight, omens, and prophetic rituals.
@@ -116,9 +116,9 @@ The city is an architectural marvel of moonstone towers, star-etched bridges, an
 
 ## **Notable NPCs**
 
-* **[[High Priestess Lyranna|npcs.LyrannaVirelleth]]** Divine mouthpiece of Velaria, supreme cleric, and central advisor.
-* **[[Lord Zorath|npcs.ZorathVirelleth]]:** Politically cunning noble of House Virelleth, a power broker in court.
-* **[[Archmage Kaelas|npcs.ArchmageKaelas]]:** Headmaster of Moonshadow Academy, rumored to be centuries old.
+* **[[High Priestess Lyranna|npcs.Lyranna Virelleth]]** Divine mouthpiece of Velaria, supreme cleric, and central advisor.
+* **[[Lord Zorath|npcs.Zorath Virelleth]]:** Politically cunning noble of House Virelleth, a power broker in court.
+* **[[Archmage Kaelas|npcs.Archmage Kaelas]]:** Headmaster of Moonshadow Academy, rumored to be centuries old.
 
 ---
 
@@ -129,10 +129,10 @@ Nox is home to the Five Major Houses that govern Vel’Norath, as well as severa
 ---
 
 * **🏛 House [[cities.nox.house.major.Virelleth]]:** The most politically influential house in Nox, known for their mastery of divine law and manipulation through prophecy. Trusted advisors to the High Priestess and deeply entrenched in temple politics.
-  **Current Head:** Lord Zorath Virelleth
+  **Current Head:** [[Lord Zorath Virelleth|npcs.Zorath Virelleth]] Virelleth
   **Known For:** Political cunning, theological power plays, and subtle influence over temple decisions
 
-* **⚖️ House [[cities.nox.house.major.Thalraeyn]]:** Executors of judgment and protectors of divine order. They oversee the Ebon Sentinels and serve as the city’s enforcers of law and morality.
+* **⚖️ House [[cities.nox.house.major.Thalraeyn]]:** Executors of judgment and protectors of divine order. They oversee the [[Ebon Sentinels|cities.nox]] and serve as the city’s enforcers of law and morality.
   **Current Head:** Matron Ysmera Thalraeyn
   **Known For:** Rigid discipline, zero tolerance for heresy, and absolute devotion to the rule of Velaria
 
@@ -166,7 +166,7 @@ Nox is home to the Five Major Houses that govern Vel’Norath, as well as severa
 
 ## **Factions / Organizations**
 
-* **Ebon Sentinels:** Religious enforcers and city guardians sworn to the Moon Oath.
+* **[[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]]:** Religious enforcers and city guardians sworn to the Moon Oath.
 * **Moonshadow Academy:** Arcane and divine institution shaping the nation's magical elite.
 * **Order of the Veiled Flame:** A secretive priesthood dedicated to preserving divine truths.
 

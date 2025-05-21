@@ -1,6 +1,6 @@
 ---
 id: texyvk9oxkpq684zqmzap6d
-title: AstralRupture
+title: Astral Rupture
 desc: ''
 updated: 1747856541498
 created: 1747856381302

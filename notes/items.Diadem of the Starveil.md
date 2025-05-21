@@ -1,6 +1,6 @@
 ---
 id: rl6x9oxhlhmbc6euj9xttj3
-title: DiademoftheStarveil
+title: Diadem of the Starveil
 desc: ''
 updated: 1747841842999
 created: 1747840485400

@@ -1,8 +1,8 @@
 ---
 id: jleb1n6jdiuw5wpulu1eupp
-title: LyrannaVirelleth
+title: Lyranna Virelleth
 desc: ''
-updated: 1747841631385
+updated: 1747857858278
 created: 1747838665772
 ---
 # Lives in [[nations.velnorath]]
@@ -82,8 +82,8 @@ Vel’Norath – capital sanctum in the shadowed sanctum of *Sha’Zir Talith*, 
   * Legendary Resistance (3/day) – granted by divine pact
 * **Notable Equipment:**
 
-  * **[[Censer of the Moonbound Flame|items.CenseroftheMoonboundFlame]]** – functions as a spellcasting focus; can cast *Sanctuary* and *Flame Strike* without expending a slot 1/day
-  * **[[Diadem of the Starveil|items.DiademoftheStarveil]]** – advantage on saving throws vs. mind-altering effects; stores 3 cleric spells daily
+  * **[[Censer of the Moonbound Flame|items.Censer of the Moonbound Flame]]** – functions as a spellcasting focus; can cast *Sanctuary* and *Flame Strike* without expending a slot 1/day
+  * **[[Diadem of the Starveil|items.Diadem of the Starveil]]** – advantage on saving throws vs. mind-altering effects; stores 3 cleric spells daily
 
 ---
 
@@ -142,7 +142,3 @@ Vel’Norath – capital sanctum in the shadowed sanctum of *Sha’Zir Talith*, 
 > *“Do not seek the truth in light alone — it hides equally in shadow.”*
 > *“The gods whisper to me when even time dares not breathe.”*
 > *“If you must bleed, bleed for balance.”*
-
----
-
-Would you like a matching religion entry for her goddess, or for me to expand her Sanctum and inner circle (e.g., her Twilight Veil faction)?

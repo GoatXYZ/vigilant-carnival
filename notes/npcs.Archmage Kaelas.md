@@ -1,8 +1,8 @@
 ---
 id: pbepeo3n1ckxrg8ox4arr0d
-title: ArchmageKaelas
+title: Archmage Kaelas
 desc: ''
-updated: 1747856360764
+updated: 1747857314205
 created: 1747855719297
 ---
 # 📜 Notable NPC Template
@@ -74,7 +74,7 @@ Moonshadow Academy, City of Nox, Vel’Norath
 - **Woven Fate (1/day):** After seeing a creature for 1 round, he can impose *Disadvantage* on all saving throws for 1 minute (WIS save DC 22 negates)
 
 ### **Notable Equipment:**
-- **Glass Eyes of the Pale Moon:** See invisible, true sight to 120 ft, grant immunity to blindness and gaze attacks  
+- **[[Glass Eyes of the Pale Moon|items.Glass Eyes of the Pale Moon]]:** See invisible, true sight to 120 ft, grant immunity to blindness and gaze attacks  
 - **Stellar Grimoire:** His spellbook is a bound constellation—cannot be stolen or destroyed by physical means  
 - **Ring of Veiled Echoes:** Stores 3 counterspells/day and mimics voice of anyone he has heard
 

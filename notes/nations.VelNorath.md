@@ -2,7 +2,7 @@
 id: st7dgx15bsw36pasqktmck5
 title: VelNorath
 desc: ''
-updated: 1747850763173
+updated: 1747858693730
 created: 1747837515369
 ---
 # Vel'Norath
@@ -26,7 +26,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 
 * **Structure:** Divine monarchy led by a council of the heads of five ruling families (known as the Council of Shadows).
 * **Succession Rules:** Eldest of the chosen heir within each family; one selected to lead the council by divine ritual every 50 years.
-* **Law and Order:** Laws enforced by elite religious guards known as the Ebon Sentinels.
+* **Law and Order:** Laws enforced by elite religious guards known as the [[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]].
 * **Diplomatic Relations:** Neutral yet cautious, known to trade occasionally with neighboring kingdoms; wary of human nations.
 
 ## Military
@@ -56,7 +56,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 
 ## Notable Cities
 
-### Nox'Thalor
+### Nox
 
 * **Overview:** Capital city shrouded in eternal twilight, spiritual and political heart.
 * **Districts:**
@@ -68,7 +68,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 * **Shops & Taverns:** Twilight's Cauldron (alchemy), The Moonlit Chalice (tavern).
 * **Important NPCs:**
 
-  * **[[High Priestess Lyranna:|npcs.LyrannaVirelleth]]** Leader of religious rituals and adviser.
+  * **[[High Priestess Lyranna:|npcs.Lyranna Virelleth]]** Leader of religious rituals and adviser.
   * **Lord Zorath:** Influential noble of the ruling council.
 * **Plot Hooks:** Political intrigue within the Council, a mysterious disappearance in the Temple District.
 
@@ -84,7 +84,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 
 ## Factions and Organizations
 
-* **Ebon Sentinels:** Elite religious guard force.
+* **[[Ebon Sentinels|cities.nox.faction.Ebon Sentinels]]:** Elite religious guard force.
 * **Moonshadow Academy:** Center for magical learning.
 
 ## Plot Hooks

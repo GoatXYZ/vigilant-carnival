@@ -1,6 +1,6 @@
 ---
 id: ffax61srx4agpt3256th9th
-title: GlassEyesofthePaleMoon
+title: Glass Eyes of the Pale Moon
 desc: ''
 updated: 1747856038232
 created: 1747856023805
