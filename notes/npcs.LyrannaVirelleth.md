@@ -2,7 +2,7 @@
 id: jleb1n6jdiuw5wpulu1eupp
 title: LyrannaVirelleth
 desc: ''
-updated: 1747840987346
+updated: 1747841631385
 created: 1747838665772
 ---
 # Lives in [[nations.velnorath]]
@@ -82,8 +82,8 @@ Vel’Norath – capital sanctum in the shadowed sanctum of *Sha’Zir Talith*, 
   * Legendary Resistance (3/day) – granted by divine pact
 * **Notable Equipment:**
 
-  * **[[items.CenseroftheMoonboundFlame]]** – functions as a spellcasting focus; can cast *Sanctuary* and *Flame Strike* without expending a slot 1/day
-  * **[[items.DiademoftheStarveil]]** – advantage on saving throws vs. mind-altering effects; stores 3 cleric spells daily
+  * **[[Censer of the Moonbound Flame|items.CenseroftheMoonboundFlame]]** – functions as a spellcasting focus; can cast *Sanctuary* and *Flame Strike* without expending a slot 1/day
+  * **[[Diadem of the Starveil|items.DiademoftheStarveil]]** – advantage on saving throws vs. mind-altering effects; stores 3 cleric spells daily
 
 ---
 

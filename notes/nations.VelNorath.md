@@ -2,7 +2,7 @@
 id: st7dgx15bsw36pasqktmck5
 title: VelNorath
 desc: ''
-updated: 1747837562377
+updated: 1747842256499
 created: 1747837515369
 ---
 # Vel'Norath
@@ -44,7 +44,7 @@ Vel'Norath is a secluded, powerful nation predominantly inhabited by dark elves,
 ## Demographics
 
 * **Population:** Approximately 200,000, predominantly dark elves.
-* **Languages:** Elvish (Dark dialect), Common (rarely).
+* **Languages:** Elvish (Dark dialect), Common (rarely), Celestial (for religious texts).
 * **Culture:** Artistic yet austere, celebrating moon phases and divine prophecies.
 * **Religion:** Worship of the Lunar Deities, primarily the Goddess Velaria.
 

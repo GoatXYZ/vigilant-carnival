@@ -2,12 +2,10 @@
 id: 7lhwb1w96wh3aw579dryfz0
 title: CenseroftheMoonboundFlam
 desc: ''
-updated: 1747839853611
+updated: 1747842178397
 created: 1747839760427
 ---
 # 🧭 **Censer of the Moonbound Flame**
-
----
 
 ## **Item Type:**
 
@@ -33,7 +31,7 @@ Legends say its fire does not burn flesh unless the soul itself is out of balanc
 
 ## **Description**
 
-A heavy silver censer shaped like a hanging lotus, veined with obsidian and carved with lunar runes that shift subtly under moonlight. Soft embers flicker within even when cold to the touch. When swung during prayer, pale violet smoke swirls outward, forming ghostly flames that leave no heat behind — unless the wielder wills it.
+A heavy silver censer shaped like a hanging orb, veined with obsidian and carved with lunar runes that shift subtly under moonlight. Soft embers flicker within even when cold to the touch. When swung during prayer, pale violet smoke swirls outward, forming ghostly flames that leave no heat behind — unless the wielder wills it.
 
 ---
 

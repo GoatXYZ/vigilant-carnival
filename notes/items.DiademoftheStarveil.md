@@ -2,16 +2,10 @@
 id: rl6x9oxhlhmbc6euj9xttj3
 title: DiademoftheStarveil
 desc: ''
-updated: 1747840728811
+updated: 1747841842999
 created: 1747840485400
 ---
-Here is the **Markdown entry** for the **Diadem of the Starveil**, crafted as a Legendary item steeped in political and divine power, closely tied to the High Priestess of Velaria:
-
----
-
 # 🧭 **Diadem of the Starveil**
-
----
 
 ## **Item Type:**
 
